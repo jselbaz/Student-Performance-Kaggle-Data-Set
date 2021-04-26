@@ -17,7 +17,7 @@ I used the Kaggle dataset about Student Performance in Math over the course of 3
   3. Do these factors change across the 3 years? Do some exert a stronger influence early on and fade while others have the opposite effect? 
 
 ## File Description
-There is a jupyter notebook available to explore answers to the questions posed above.
+There are 3 jupyter notebook available to explore answers to each of the questions posed above.
 
 ## Results
 The conclusions reached can be found at the post here: 
