@@ -1,4 +1,4 @@
-# Student-Performance-Kaggle-Data-Set-
+# Student-Performance-Kaggle-Data-Set
 
 ## Table of Contents
 1. [Installation](https://github.com/jselbaz/Student-Performance-Kaggle-Data-Set-/blob/main/README.md#Installation)
