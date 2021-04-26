@@ -2,10 +2,10 @@
 
 ## Table of Contents
 1. [Installation](https://github.com/jselbaz/Student-Performance-Kaggle-Data-Set-/blob/main/README.md#Installation)
-3. [Project Description](https://github.com/jselbaz/Student-Performance-Kaggle-Data-Set-/blob/main/README.md#Project)
-4. [File Descriptions](https://github.com/jselbaz/Student-Performance-Kaggle-Data-Set-/blob/main/README.md#File-Description)
+3. [Project Description](https://github.com/jselbaz/Student-Performance-Kaggle-Data-Set-/blob/main/README.md#Project-Description)
+4. [File Description](https://github.com/jselbaz/Student-Performance-Kaggle-Data-Set-/blob/main/README.md#File-Description)
 5. [Results](https://github.com/jselbaz/Student-Performance-Kaggle-Data-Set-/blob/main/README.md#Results)
-6. [Licensing, Authors, and Acknowledgements](https://github.com/jselbaz/Student-Performance-Kaggle-Data-Set-/blob/main/README.md#Licensing-Authors-and-Acknowledgments)
+6. [Licensing, Authors, and Acknowledgements](https://github.com/jselbaz/Student-Performance-Kaggle-Data-Set-/blob/main/README.md#Licensing,-Authors,-and-Acknowledgments)
 
 ## Installation
 The only libraries needed to run this code are the standard ones in Data Science: Python 3.X, Jupyter, NumPy, Pandas, Matplotlib, SKLearn, and Seaborn
