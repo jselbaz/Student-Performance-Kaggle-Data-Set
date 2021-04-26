@@ -23,4 +23,4 @@ There is a jupyter notebook available to explore answers to the questions posed 
 The conclusions reached can be found at the post here: 
 
 ## Licensing, Authors, and Acknowledgements
-Full credit goes to Kaggle for the dataset which is available [here](https://www.kaggle.com/impapan/student-performance-data-set):
+Full credit goes to Kaggle for the dataset which is available [here](https://www.kaggle.com/impapan/student-performance-data-set).
