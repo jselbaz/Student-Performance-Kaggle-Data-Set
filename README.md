@@ -2,8 +2,8 @@
 
 ## Table of Contents
 1. [Installation](https://github.com/jselbaz/Student-Performance-Kaggle-Data-Set-/blob/main/README.md#Installation)
-3. [Project Description](https://github.com/jselbaz/Student-Performance-Kaggle-Data-Set-/blob/main/README.md#Project_Description)
-4. [File Descriptions](https://github.com/jselbaz/Student-Performance-Kaggle-Data-Set-/blob/main/README.md#File_Description)
+3. [Project Description](https://github.com/jselbaz/Student-Performance-Kaggle-Data-Set-/blob/main/README.md#Project Description)
+4. [File Descriptions](https://github.com/jselbaz/Student-Performance-Kaggle-Data-Set-/blob/main/README.md#File Description)
 5. [Results](https://github.com/jselbaz/Student-Performance-Kaggle-Data-Set-/blob/main/README.md#Results)
 6. [Licensing, Authors, and Acknowledgements](https://github.com/jselbaz/Student-Performance-Kaggle-Data-Set-/blob/main/README.md#Licensing)
 
