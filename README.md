@@ -24,3 +24,4 @@ The conclusions reached can be found at the post [here](https://jselbaz.medium.c
 
 ## Licensing, Authors, and Acknowledgements
 Full credit goes to Kaggle for the dataset which is available [here](https://www.kaggle.com/impapan/student-performance-data-set).
+This was done as part of Udemy's Data Scientist Nanodegree
