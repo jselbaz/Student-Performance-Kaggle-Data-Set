@@ -20,7 +20,7 @@ I used the Kaggle dataset about Student Performance in Math over the course of 3
 There are 3 jupyter notebook available to explore answers to each of the questions posed above.
 
 ## Results
-The conclusions reached can be found at the post here: 
+The conclusions reached can be found at the post [here](https://jselbaz.medium.com/were-you-a-good-math-student-f156acd890ee)
 
 ## Licensing, Authors, and Acknowledgements
 Full credit goes to Kaggle for the dataset which is available [here](https://www.kaggle.com/impapan/student-performance-data-set).
