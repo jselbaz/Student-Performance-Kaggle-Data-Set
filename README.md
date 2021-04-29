@@ -12,12 +12,12 @@ The only libraries needed to run this code are the standard ones in Data Science
 
 ## Project Description
 I used the Kaggle dataset about Student Performance in Math over the course of 3 years to try to better understand the following:
-  1. What are the primary controllable factors that affect math performance in this dataset?
-  2. What are the primary external factors that affect math performance?
-  3. Do these factors change across the 3 years? Do some exert a stronger influence early on and fade while others have the opposite effect? 
+  1. What are the primary environmental factors that affect math performance in this dataset?
+  2. What are the primary controllable factors that affect math performance?
+  3. What factors actually had the largest effect on final grades? 
 
 ## File Description
-There are 3 jupyter notebook available to explore answers to each of the questions posed above.
+There is the original CSV data from Kaggle, a text file describing it, and a jupyter notebook available to explore answers to each of the questions posed above.
 
 ## Results
 The conclusions reached can be found at the post [here](https://jselbaz.medium.com/were-you-a-good-math-student-f156acd890ee)
